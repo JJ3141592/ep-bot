@@ -5,7 +5,6 @@ import pyautogui
 import keyboard
 import pyperclip as pc
 import os
-from numba import njit
 
 pyautogui.PAUSE = 0
 
